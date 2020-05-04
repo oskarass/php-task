@@ -1,0 +1,23 @@
+[
+    {
+        "datetime": "2020-May-04 02:05:07",
+        "N": "1",
+        "Cats": "Californian Rex\n, Cymric\n, Chausie\n",
+        "countAll": 1,
+        "CountN": 1
+    },
+    {
+        "datetime": "2020-May-04 02:05:11",
+        "N": "3",
+        "Cats": "Balinese cat\n, Scottish Fold\n, American Shorthair\n",
+        "countAll": 2,
+        "CountN": 1
+    },
+    {
+        "datetime": "2020-May-04 02:05:13",
+        "N": "524",
+        "Cats": "Siberian cat\n, Chausie\n, Turkish Van\n",
+        "countAll": 3,
+        "CountN": 1
+    }
+]
